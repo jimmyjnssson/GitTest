@@ -11,6 +11,9 @@ public class Main {
 
         System.out.println("ma");
 
+
+        System.out.println("gjrg");
+
         //Hej
     }
 }
