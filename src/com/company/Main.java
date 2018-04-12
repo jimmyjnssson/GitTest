@@ -11,6 +11,8 @@ public class Main {
         System.out.println("sjkd");
         System.out.println("Revert");
 
+        System.out.println("Hej");
+
         //Hej
     }
 }
