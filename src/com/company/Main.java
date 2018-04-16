@@ -12,5 +12,14 @@ public class Main {
         System.out.println("ma");
 
         //Hej
+
+        print("hejsan");
+        print("hejdå");
+
+        //git test metod
+    }
+
+    public static void print(String text){
+        System.out.println(text);
     }
 }
