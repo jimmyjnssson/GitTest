@@ -5,11 +5,11 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
-        System.out.println("Hello");
+        System.out.println("Hell0o");
         System.out.println("hej");
         System.out.println("test commit");
         System.out.println("test commit 2");
-        System.out.println("herfbj");
+        System.out.println("");
 
 
         System.out.println("ma");
